@@ -1,7 +1,7 @@
 package com.example.project;
 public class LinearCalculator{
-    //FOR THE EXTRA CREDIT 
-    //you should copy and paste all of your code for the LinearCalculator class
+    //FOR EXTRA CREDIT 
+    //you should copy and paste all of your code from the LinearCalculator class
     // but NOT printInfo(). Please update it below
 
 
